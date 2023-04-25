@@ -3,6 +3,8 @@ Analog Circuits Lab Project
 
 Here SSCAW refers to "Security System for Cardiac Arrest in Washroom (and other emergencies). 
 
+Members: Nitheezkant R, Anshuman Kumar, Varad Bharadiya, Shashank Lal, Aditya Garg
+
 Problem:
 So, there is a slight possibility that when the elderly people (or any members of any age group) visit the washroom, they might face some serious health condition, like cardiac arrest etc. Till the time someone finds out about this, it might be too late. Hence, our team of 5 have come up with an idea to manipulate the working of the locks with an Analog circuit, which can help regulate the person's condition inside the bathroom. 
 
