@@ -1,4 +1,7 @@
 # SSCAW-Project
+
+Please refer link : https://youtu.be/c3e4a_MYbZ8 for video explanation of this project, else you can read this small description of the same.
+
 Analog Circuits Lab Project
 
 Here SSCAW refers to "Security System for Cardiac Arrest in Washroom (and other emergencies). 
